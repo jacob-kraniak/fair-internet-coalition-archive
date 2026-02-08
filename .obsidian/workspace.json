@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "current-status/dormancy.md",
+                "file": "initiatives/surveys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dormancy"
+              "title": "surveys"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 200
   },
   "right": {
     "id": "40f13db61aea6ebc",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "current-status/dormancy.md",
+                "file": "initiatives/surveys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dormancy"
+              "title": "Backlinks for surveys"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "current-status/dormancy.md",
+                "file": "initiatives/surveys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from dormancy"
+              "title": "Outgoing links from surveys"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "current-status/dormancy.md",
+                "file": "initiatives/surveys.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dormancy"
+              "title": "Outline of surveys"
             }
           },
           {
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c21132ba0ed718a",
+  "active": "2cf7abcdcaf50abc",
   "lastOpenFiles": [
-    "initiatives/surveys.md",
     "current-status/dormancy.md",
+    "initiatives/surveys.md",
     "current-status",
     "initiatives/blog-archive.md",
     "history/overview.md",
