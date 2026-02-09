@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Socials/Facebook/posts-archive.md",
+                "file": "Resources/Socials/Facebook/groups-archive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "posts-archive"
+              "title": "groups-archive"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Socials/Facebook/posts-archive.md",
+                "file": "Resources/Socials/Facebook/groups-archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for posts-archive"
+              "title": "Backlinks for groups-archive"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Socials/Facebook/posts-archive.md",
+                "file": "Resources/Socials/Facebook/groups-archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from posts-archive"
+              "title": "Outgoing links from groups-archive"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Socials/Facebook/posts-archive.md",
+                "file": "Resources/Socials/Facebook/groups-archive.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of posts-archive"
+              "title": "Outline of groups-archive"
             }
           },
           {
@@ -209,31 +209,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "edc063be7ffa7f9a",
+  "active": "6ae21138b92b1fa0",
   "lastOpenFiles": [
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/media/your_posts/599306762188986.jpg",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/media/your_posts/599091082210554.jpg",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/media/your_posts/599038468882482.png",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/media/your_posts/599038465549149.png",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/media/your_posts/599038462215816.jpg",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/media/your_posts/431204875730231.jpg",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/media/your_posts/366852658832120.jpg",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/media/your_posts/366852655498787.jpg",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/media/your_posts/353271103523609.jpg",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/media/your_posts/317216897129030.jpg",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/media/your_posts/317216393795747.jpg",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/media/your_posts",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/media/Profilepictures_557181053068224",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/media/Profilepictures_103994241784631",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/media/Photos_557181046401558",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/media/Mobileuploads_557181036401559",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/media/InstagramPhotos_131415712375817",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/media/Coverphotos_557181043068225",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/album/4.json",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/album/3.json",
-    "Resources/Socials/Facebook/Raw JSON Exports/posts/album/2.json",
-    "Resources/Socials/Facebook/profile-archive.md",
     "Resources/Socials/Facebook/posts-archive.md",
+    "Resources/Socials/Facebook/groups-archive.md",
+    "Resources/Socials/Facebook/json_raw/posts/media/your_posts/599306762188986.jpg",
+    "Resources/Socials/Facebook/json_raw/posts/media/your_posts/599091082210554.jpg",
+    "Resources/Socials/Facebook/json_raw/posts/media/your_posts/599038468882482.png",
+    "Resources/Socials/Facebook/json_raw/posts/media/your_posts/599038465549149.png",
+    "Resources/Socials/Facebook/json_raw/posts/media/your_posts/599038462215816.jpg",
+    "Resources/Socials/Facebook/json_raw/posts/media/your_posts/431204875730231.jpg",
+    "Resources/Socials/Facebook/json_raw/posts/media/your_posts/366852658832120.jpg",
+    "Resources/Socials/Facebook/json_raw/posts/media/your_posts/366852655498787.jpg",
+    "Resources/Socials/Facebook/json_raw/posts/media/your_posts/353271103523609.jpg",
+    "Resources/Socials/Facebook/json_raw/posts/media/your_posts/317216897129030.jpg",
+    "Resources/Socials/Facebook/json_raw/posts/media/your_posts",
+    "Resources/Socials/Facebook/json_raw/posts/media/Profilepictures_557181053068224",
+    "Resources/Socials/Facebook/json_raw/posts/media/Profilepictures_103994241784631",
+    "Resources/Socials/Facebook/json_raw/posts/media/Photos_557181046401558",
+    "Resources/Socials/Facebook/json_raw/posts/media/Mobileuploads_557181036401559",
+    "Resources/Socials/Facebook/json_raw/posts/media/InstagramPhotos_131415712375817",
+    "Resources/Socials/Facebook/json_raw/posts/media/Coverphotos_557181043068225",
+    "Resources/Socials/Facebook/json_raw/posts/album/4.json",
+    "Resources/Socials/Facebook/json_raw/posts/album/3.json",
+    "Resources/Socials/Facebook/json_raw/posts/album/2.json",
+    "Resources/Socials/Facebook/profile-archive.md",
     "current-status/revival-guide.md",
     "Contributing.md",
     "history/Team.md",
