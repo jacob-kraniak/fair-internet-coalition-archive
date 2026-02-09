@@ -34,9 +34,51 @@
               "icon": "lucide-file",
               "title": "issue-008"
             }
+          },
+          {
+            "id": "179e1cf5fcf5937f",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+            }
+          },
+          {
+            "id": "aeca12b306def41c",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+            }
+          },
+          {
+            "id": "437863c067fefe65",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/app.json",
+                "bFile": ".obsidian/app.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: app.json  (Working Tree)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -209,17 +251,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "252d458ba3c42676",
+  "active": "edc063be7ffa7f9a",
   "lastOpenFiles": [
-    "issue-007.md",
+    "Untitled.md",
+    "conflict-files-obsidian-git.md",
     "issue-008.md",
+    "issue-007.md",
     "issue-006.md",
     "issue-001.md",
     "issue-005.md",
     "issue-004.md",
     "issue-003.md",
     "issue-002.md",
-    "Untitled.md",
     "Resources/Socials/Facebook/reactions-archive.md",
     "Resources/Socials/Facebook/json_raw/comments_and_reactions/likes_and_reactions_1.json",
     "Resources/Socials/Facebook/json_raw/comments_and_reactions/likes_and_reactions.json",
@@ -255,7 +298,6 @@
     "README.md",
     "current-status/data-preservation.md",
     "initiatives/blog-archive.md",
-    "initiatives/surveys.md",
-    "current-status/dormancy.md"
+    "initiatives/surveys.md"
   ]
 }
