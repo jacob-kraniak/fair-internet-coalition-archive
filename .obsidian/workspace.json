@@ -25,14 +25,14 @@
             "id": "6ae21138b92b1fa0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "current-status/revival-guide.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "revival-guide"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "current-status/revival-guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for revival-guide"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "current-status/revival-guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from revival-guide"
+              "title": "Outgoing links"
             }
           },
           {
@@ -171,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "current-status/revival-guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of revival-guide"
+              "title": "Outline"
             }
           },
           {
@@ -211,8 +208,9 @@
   },
   "active": "6ae21138b92b1fa0",
   "lastOpenFiles": [
-    "history/Team.md",
     "current-status/revival-guide.md",
+    "Contributing.md",
+    "history/Team.md",
     "Resources/readme.md",
     "website-archive/readme.md",
     "Resources",
