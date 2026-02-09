@@ -1,21 +1,46 @@
 # Fair Internet Coalition Archive
 
-Archived documentation for the defunct 501(c)(3) nonprofit Fair Internet Coalition (FIC), active ~2019–2024.
+Archived documentation for the defunct **Fair Internet Coalition** (FIC), a 501(c)(3) nonprofit (approved July 2022) active ~2019–2024.
+
+FIC advocated for broadband competition and consumer rights in the Tri-State area (heavy focus on Long Island vs. Optimum/Altice monopoly), through surveys, PSC testimony, fiber support (e.g., OCG), and community education.
+
+**Status**: Dormant since mid-2023 (last blog April 23, 2023). All known online assets preserved here for reference or potential revival.
+
+## Quick Links & Social Presence
+
+Known public channels (handles mostly @1fairInternet variants; majority dormant):
+
+| Platform       | Handle / Link                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Notes / Followers (historical)                                                                                                                                  | Status (2026)                                                                   |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Website        | [fairinternetcoalition.org](https://fairinternetcoalition.org)                                                                                                                                                                                                                                                                                                                                                                                                           | Main hub: Blog, surveys, about/contact/donate                                                                                                                   | Live, static since 2023                                                         |
+| X (Twitter)    | [@1fairInternet](https://x.com/1fairInternet)                                                                                                                                                                                                                                                                                                                                                                                                                            | Advocacy, survey bot (ended 2023 due to API changes)                                                                                                            | ~840 followers, dormant ~2023                                                   |
+| Instagram      | [@1fairinternet](https://www.instagram.com/1fairinternet)                                                                                                                                                                                                                                                                                                                                                                                                                | Milestones, memes against monopolies                                                                                                                            | Dormant ~2024                                                                   |
+| YouTube        | [@fairinternet](https://www.youtube.com/@fairinternet)                                                                                                                                                                                                                                                                                                                                                                                                                   | 16 videos (meetings, FIC.TV clips, nonprofit announcement)                                                                                                      | 28 subscribers, last ~2023–2025                                                 |
+| **Facebook**   | **Page**: [facebook.com/Fairinternet](https://www.facebook.com/Fairinternet) <br>**Groups** (FIC-affiliated/owned):<br>- [Optimum/Altice Dilemmas](https://www.facebook.com/groups/optimumalticedilemmas) (primary, large community)<br>- [fairinternet](https://www.facebook.com/groups/fairinternet)<br>- [Defund Optimum and Altice?](https://www.facebook.com/groups/1543433459199748)<br>- [Another related group](https://www.facebook.com/groups/670261257066459) | Standalone page for official updates.<br>Groups used for complaints, survey promo, advocacy.<br><br>Optimum group: Thousands of members, focused on ISP issues. | Page & groups dormant/low activity; some posts reference FIC surveys/complaints |
+| LinkedIn       | [Company Page](https://www.linkedin.com/company/fairinternet/)                                                                                                                                                                                                                                                                                                                                                                                                           | Professional profile                                                                                                                                            | Dormant                                                                         |
+| Patreon        | [patreon.com/fairinternet](https://www.patreon.com/fairinternet)                                                                                                                                                                                                                                                                                                                                                                                                         | Subscription-based donations                                                                                                                                    | Historical                                                                      |
+| Slack          | [Join Public Workspace](https://join.slack.com/t/fairinternet/shared_invite/zt-1dn5uemwg-BSwW8fu91MfjHbNpPJkm2A)                                                                                                                                                                                                                                                                                                                                                         | Discussion channel (invite may be expired)                                                                                                                      | Check if still accessible                                                       |
+| Action Network | [Group Profile](https://actionnetwork.org/groups/fair-internet-coalition)                                                                                                                                                                                                                                                                                                                                                                                                | Petitions and advocacy tools                                                                                                                                    | Historical                                                                      |
+
+**Historical Contact**:
+- Email: info@fairinternetcoalition.org (or jacob.kraniak@fairinternetcoalition.org)
+- Phone: 631-846-0084
+- Address: PO Box 127, Middle Island, New York 11953
+
 ## Overview
-- **Mission**: Promoting broadband competition and challenging monopolies in the Tri-State area (focus: Long Island, NY vs. incumbents like Optimum/Altice).
-- **Core Work**: Consumer surveys on ISP satisfaction (especially Optimum), advocacy for fiber alternatives (e.g., OCG in Brookhaven), education on competitive providers, participation in NY PSC hearings, and community outreach.
-- **Status**: Dormant since mid-2023 (last blog post April 23, 2023). Website, social accounts, and YouTube still online but inactive. No recent activity on X, Instagram, or related groups.
-- **Legal**: 501(c)(3) status approved July 2022.
-- **Location**: PO Box 127, Middle Island, New York 11953.
-- **Primary Contact (historical)**: Jacob Kraniak, Phone: 631-846-0084, Email: info@fairinternetcoalition.org.
+- **Mission**: Affordable/reliable broadband; data collection via surveys (745+ Optimum responses); challenge monopolies; promote alternatives.
+- **Key Work**: ISP satisfaction surveys (Looker Studio dashboards), OCG v. Verizon, Brookhaven fiber votes, NY PSC hearings, community groups for complaints/education.
+- **Team** (volunteer-based): Jacob Kraniak (founder/admin), Frank Kanter, Alec Foster, Kathen Cowan (treasurer in some refs), Chris Feliciano (Facebook admin), others.
 
-This repo preserves public-facing history, initiatives, and resources for anyone interested in revival or reference. Sensitive admin docs (tax, finance) are in the separate private repo `fic-admin-private`.
+## Repo Structure
+- `/history/` → Founding, timeline, team.
+- `/initiatives/` → Surveys (incl. Looker links), advocacy, blog archive.
+- `/website-archive/` → Screenshots/PDFs of pages.
+- `/current-status/` → Dormancy, Workspace migration notes.
+- `/resources/` → External links, media embeds.
 
-## Folder Structure
-- `/history/` – Founding, milestones, team.
-- `/initiatives/` – Surveys, advocacy campaigns, legal efforts.
-- `/website-archive/` – Screenshots, exported pages, blog summaries.
-- `/current-status/` – Dormancy notes, migration tips.
-- `/resources/` – External links, media embeds.
+Public repo for handover; sensitive docs (tax/financial) in private `fic-admin-private`.
 
-See the folders below for details. Contributions welcome via PRs.
+PRs/contributions welcome. For revival: Renew domain if needed, export remaining Google assets, consider archiving Facebook group content (e.g., via export tools or screenshots).
+
+Last README update: February 2026.
