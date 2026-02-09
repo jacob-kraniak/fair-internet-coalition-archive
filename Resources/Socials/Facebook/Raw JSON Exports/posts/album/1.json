@@ -1,0 +1,67 @@
+{
+  "name": "Instagram Photos",
+  "photos": [
+    {
+      "uri": "this_profile's_activity_across_facebook/posts/media/InstagramPhotos_131415712375817/131415682375820.jpg",
+      "creation_timestamp": 1620964385,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "taken_timestamp": 1620964385
+            }
+          ]
+        }
+      },
+      "title": "Instagram Photos",
+      "description": "#alticeiscancelled in Ronkonkoma, NY\n\n#optimumsurvey #canceloptimum"
+    },
+    {
+      "uri": "this_profile's_activity_across_facebook/posts/media/InstagramPhotos_131415712375817/132028808981174.jpg",
+      "creation_timestamp": 1621101073,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "taken_timestamp": 1621101073
+            }
+          ]
+        }
+      },
+      "title": "Instagram Photos",
+      "description": "#alticeiscancelled in Centereach, NY\n\n#canceloptimum #boycottoptimum"
+    },
+    {
+      "uri": "this_profile's_activity_across_facebook/posts/media/InstagramPhotos_131415712375817/227631152754272.jpg",
+      "creation_timestamp": 1633042586,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "taken_timestamp": 1633042586
+            }
+          ]
+        }
+      },
+      "title": "Instagram Photos",
+      "description": "First in-person event is tonight! \n\nCheck our YouTube channel for the video later this week!"
+    }
+  ],
+  "cover_photo": {
+    "uri": "this_profile's_activity_across_facebook/posts/media/InstagramPhotos_131415712375817/227631152754272.jpg",
+    "creation_timestamp": 1633042586,
+    "media_metadata": {
+      "photo_metadata": {
+        "exif_data": [
+          {
+            "taken_timestamp": 1633042586
+          }
+        ]
+      }
+    },
+    "title": "Instagram Photos",
+    "description": "First in-person event is tonight! \n\nCheck our YouTube channel for the video later this week!"
+  },
+  "last_modified_timestamp": 1767233676,
+  "description": ""
+}

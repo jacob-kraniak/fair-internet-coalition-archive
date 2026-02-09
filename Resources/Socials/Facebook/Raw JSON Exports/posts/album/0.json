@@ -1,0 +1,80 @@
+{
+  "name": "Cover photos",
+  "photos": [
+    {
+      "uri": "this_profile's_activity_across_facebook/posts/media/Coverphotos_557181043068225/103994885117900.png",
+      "creation_timestamp": 1616418889,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "upload_ip": "8.21.13.23",
+              "taken_timestamp": 1616418897
+            }
+          ]
+        }
+      },
+      "title": "Cover photos"
+    },
+    {
+      "uri": "this_profile's_activity_across_facebook/posts/media/Coverphotos_557181043068225/119980920185963.jpg",
+      "creation_timestamp": 1618413290,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "upload_ip": "8.21.13.145",
+              "taken_timestamp": 1618413294
+            }
+          ]
+        }
+      },
+      "title": "Cover photos"
+    },
+    {
+      "uri": "this_profile's_activity_across_facebook/posts/media/Coverphotos_557181043068225/127540822763306.jpg",
+      "creation_timestamp": 1620080528,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "upload_ip": "24.45.157.3",
+              "taken_timestamp": 1620080570
+            }
+          ]
+        }
+      },
+      "title": "Cover photos"
+    },
+    {
+      "uri": "this_profile's_activity_across_facebook/posts/media/Coverphotos_557181043068225/557181079734888.jpg",
+      "creation_timestamp": 1674688563,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "taken_timestamp": 1674688566
+            }
+          ]
+        }
+      },
+      "title": "Cover photos"
+    }
+  ],
+  "cover_photo": {
+    "uri": "this_profile's_activity_across_facebook/posts/media/Coverphotos_557181043068225/557181079734888.jpg",
+    "creation_timestamp": 1674688563,
+    "media_metadata": {
+      "photo_metadata": {
+        "exif_data": [
+          {
+            "taken_timestamp": 1674688566
+          }
+        ]
+      }
+    },
+    "title": "Cover photos"
+  },
+  "last_modified_timestamp": 1674688566,
+  "description": ""
+}

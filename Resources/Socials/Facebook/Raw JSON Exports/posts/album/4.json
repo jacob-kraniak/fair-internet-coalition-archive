@@ -1,0 +1,35 @@
+{
+  "name": "Profile pictures",
+  "photos": [
+    {
+      "uri": "this_profile's_activity_across_facebook/posts/media/Profilepictures_557181053068224/557181076401555.png",
+      "creation_timestamp": 1674688563,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "taken_timestamp": 1674688566
+            }
+          ]
+        }
+      },
+      "title": "Profile pictures"
+    }
+  ],
+  "cover_photo": {
+    "uri": "this_profile's_activity_across_facebook/posts/media/Profilepictures_557181053068224/557181076401555.png",
+    "creation_timestamp": 1674688563,
+    "media_metadata": {
+      "photo_metadata": {
+        "exif_data": [
+          {
+            "taken_timestamp": 1674688566
+          }
+        ]
+      }
+    },
+    "title": "Profile pictures"
+  },
+  "last_modified_timestamp": 1674688569,
+  "description": ""
+}

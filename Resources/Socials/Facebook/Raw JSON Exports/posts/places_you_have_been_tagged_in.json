@@ -1,0 +1,102 @@
+[
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1720091959
+      },
+      {
+        "label": "Name of application used to tag this place",
+        "value": "Facebook for iPhone"
+      },
+      {
+        "label": "Place name",
+        "value": "Bridgeport, Connecticut"
+      }
+    ],
+    "fbid": "866756568777336"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1680214548
+      },
+      {
+        "label": "Name of application used to tag this place",
+        "value": "Facebook for Android"
+      },
+      {
+        "label": "Place name",
+        "value": "Brookhaven Town Hall"
+      }
+    ],
+    "fbid": "599306718855657"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1633042586
+      },
+      {
+        "label": "Name of application used to tag this place",
+        "value": "Instagram"
+      },
+      {
+        "label": "Place name",
+        "value": "Connect Church"
+      }
+    ],
+    "fbid": "227631196087601"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1621101073
+      },
+      {
+        "label": "Name of application used to tag this place",
+        "value": "Instagram for Android (Analytics Only)"
+      },
+      {
+        "label": "Place name",
+        "value": "Poppy Seeds Bagels"
+      }
+    ],
+    "fbid": "132028835647838"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1620964385
+      },
+      {
+        "label": "Name of application used to tag this place",
+        "value": "Instagram for Android (Analytics Only)"
+      },
+      {
+        "label": "Place name",
+        "value": "Lice Clinics of America - Long Island"
+      }
+    ],
+    "fbid": "131415729042482"
+  }
+]
