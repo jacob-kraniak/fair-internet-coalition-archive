@@ -1,0 +1,30 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Messenger thread created",
+      "value": "False"
+    },
+    {
+      "label": "Time of last automated follow up message",
+      "timestamp_value": 0
+    },
+    {
+      "dict": [
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "Fair Internet Coalition"
+            }
+          ],
+          "title": ""
+        }
+      ],
+      "title": "Page"
+    }
+  ],
+  "fbid": "7357746974260208"
+}

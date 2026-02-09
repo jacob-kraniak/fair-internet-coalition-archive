@@ -1,0 +1,21 @@
+{
+  "event_responses_v2": {
+    "events_joined": [
+      {
+        "name": "Brookhaven Town Voting on New Fiber provider",
+        "start_timestamp": 1680211800,
+        "end_timestamp": 0,
+        "place": {
+          "name": "Brookhaven Town Hall",
+          "coordinate": {
+            "latitude": 40.84362,
+            "longitude": -73.01558
+          },
+          "address": "1  Independence Hl, Brookhaven, NY 11738"
+        },
+        "description": "NOTICE IS HEREBY GIVEN that pursuant to Section 64 of Town Law, a public hearing will be held by the Town Board of the Town of Brookhaven at the Town Board Auditorium located at One Independence Hill, Second Floor, Farmingville, New York, and which will be streamed live over the internet at brookhavenny.gov/meeting, on March 30, 2023, at 5:30 P.M. to consider a License Agreement between the Town of Brookhaven and Optical Communications Group, Inc., for the purpose of operating a fiber-based internet network.",
+        "create_timestamp": 1680187368
+      }
+    ]
+  }
+}

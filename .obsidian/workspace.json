@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2cf7abcdcaf50abc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "website-archive/readme.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "readme"
-            }
-          },
-          {
             "id": "6ae21138b92b1fa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Socials/Facebook/groups-archive.md",
+                "file": "Resources/Socials/Facebook/reactions-archive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "groups-archive"
+              "title": "reactions-archive"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Socials/Facebook/groups-archive.md",
+                "file": "Resources/Socials/Facebook/reactions-archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for groups-archive"
+              "title": "Backlinks for reactions-archive"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Socials/Facebook/groups-archive.md",
+                "file": "Resources/Socials/Facebook/reactions-archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from groups-archive"
+              "title": "Outgoing links from reactions-archive"
             }
           },
           {
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Socials/Facebook/groups-archive.md",
+                "file": "Resources/Socials/Facebook/reactions-archive.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of groups-archive"
+              "title": "Outline of reactions-archive"
             }
           },
           {
@@ -211,8 +196,24 @@
   },
   "active": "6ae21138b92b1fa0",
   "lastOpenFiles": [
-    "Resources/Socials/Facebook/posts-archive.md",
+    "Resources/Socials/Facebook/json_raw/comments_and_reactions/likes_and_reactions_1.json",
+    "Resources/Socials/Facebook/json_raw/comments_and_reactions/likes_and_reactions.json",
+    "Resources/Socials/Facebook/json_raw/comments_and_reactions/comments.json",
+    "Resources/Socials/Facebook/json_raw/comments_and_reactions",
+    "website-archive/readme.md",
+    "Resources/Socials/Facebook/reactions-archive.md",
+    "Resources/Socials/Facebook/events-archive.md",
+    "Resources/Socials/Facebook/json_raw/events/your_event_invitation_links.json",
+    "Resources/Socials/Facebook/json_raw/events/events_you_hosted.json",
+    "Resources/Socials/Facebook/json_raw/events/events.json",
+    "Resources/Socials/Facebook/json_raw/events/event_responses.json",
+    "Resources/Socials/Facebook/json_raw/events",
+    "Resources/Socials/Facebook/pages-archive.md",
+    "Resources/Socials/Facebook/json_raw/pages/admin_activity.json",
+    "Resources/Socials/Facebook/json_raw/pages/pages.json",
+    "Resources/Socials/Facebook/json_raw/posts/pages.md",
     "Resources/Socials/Facebook/groups-archive.md",
+    "Resources/Socials/Facebook/posts-archive.md",
     "Resources/Socials/Facebook/json_raw/posts/media/your_posts/599306762188986.jpg",
     "Resources/Socials/Facebook/json_raw/posts/media/your_posts/599091082210554.jpg",
     "Resources/Socials/Facebook/json_raw/posts/media/your_posts/599038468882482.png",
@@ -223,22 +224,11 @@
     "Resources/Socials/Facebook/json_raw/posts/media/your_posts/366852655498787.jpg",
     "Resources/Socials/Facebook/json_raw/posts/media/your_posts/353271103523609.jpg",
     "Resources/Socials/Facebook/json_raw/posts/media/your_posts/317216897129030.jpg",
-    "Resources/Socials/Facebook/json_raw/posts/media/your_posts",
-    "Resources/Socials/Facebook/json_raw/posts/media/Profilepictures_557181053068224",
-    "Resources/Socials/Facebook/json_raw/posts/media/Profilepictures_103994241784631",
-    "Resources/Socials/Facebook/json_raw/posts/media/Photos_557181046401558",
-    "Resources/Socials/Facebook/json_raw/posts/media/Mobileuploads_557181036401559",
-    "Resources/Socials/Facebook/json_raw/posts/media/InstagramPhotos_131415712375817",
-    "Resources/Socials/Facebook/json_raw/posts/media/Coverphotos_557181043068225",
-    "Resources/Socials/Facebook/json_raw/posts/album/4.json",
-    "Resources/Socials/Facebook/json_raw/posts/album/3.json",
-    "Resources/Socials/Facebook/json_raw/posts/album/2.json",
     "Resources/Socials/Facebook/profile-archive.md",
     "current-status/revival-guide.md",
     "Contributing.md",
     "history/Team.md",
     "Resources/readme.md",
-    "website-archive/readme.md",
     "README.md",
     "current-status/data-preservation.md",
     "initiatives/blog-archive.md",
