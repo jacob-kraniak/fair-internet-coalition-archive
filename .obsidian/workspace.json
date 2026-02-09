@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Socials/Facebook/profile-archive.md",
+                "file": "Resources/Socials/Facebook/posts-archive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "profile-archive"
+              "title": "posts-archive"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Socials/Facebook/profile-archive.md",
+                "file": "Resources/Socials/Facebook/posts-archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for profile-archive"
+              "title": "Backlinks for posts-archive"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Socials/Facebook/profile-archive.md",
+                "file": "Resources/Socials/Facebook/posts-archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from profile-archive"
+              "title": "Outgoing links from posts-archive"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Socials/Facebook/profile-archive.md",
+                "file": "Resources/Socials/Facebook/posts-archive.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of profile-archive"
+              "title": "Outline of posts-archive"
             }
           },
           {
@@ -209,9 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ae21138b92b1fa0",
+  "active": "7c21132ba0ed718a",
   "lastOpenFiles": [
     "Resources/Socials/Facebook/profile-archive.md",
+    "Resources/Socials/Facebook/posts-archive.md",
     "Resources/Socials/Facebook",
     "Resources/Socials",
     "current-status/revival-guide.md",
