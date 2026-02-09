@@ -25,14 +25,14 @@
             "id": "6ae21138b92b1fa0",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Resources/Socials/Facebook/profile-archive.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "profile-archive"
             }
           }
         ],
@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Resources/Socials/Facebook/profile-archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for profile-archive"
             }
           },
           {
@@ -127,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Resources/Socials/Facebook/profile-archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from profile-archive"
             }
           },
           {
@@ -169,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Resources/Socials/Facebook/profile-archive.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of profile-archive"
             }
           },
           {
@@ -208,6 +211,9 @@
   },
   "active": "6ae21138b92b1fa0",
   "lastOpenFiles": [
+    "Resources/Socials/Facebook/profile-archive.md",
+    "Resources/Socials/Facebook",
+    "Resources/Socials",
     "current-status/revival-guide.md",
     "Contributing.md",
     "history/Team.md",
