@@ -1,1 +1,0 @@
-- "Create GitHub Issue template for new content suggestions"
